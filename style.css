@@ -189,8 +189,8 @@ a:hover{
   position: absolute;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 15vh;
-  top: 130vh;
-  left: 4vw;
+  top: 125vh;
+  left: 2vw;
   color: darkgray;
   display: block;
 }
@@ -207,8 +207,8 @@ a:hover{
     position: absolute;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15vh;
-    top: 288vh;
-    left: 4vw;
+    top: 270vh;
+    left: 2vw;
     color: darkgray;
     display: block;
   }
